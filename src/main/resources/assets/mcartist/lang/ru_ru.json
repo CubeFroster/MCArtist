@@ -1,3 +1,6 @@
 {
-  "item.mcartist.palette": "Палитра"
+  "item.mcartist.empty_palette": "Пустая палитра",
+  "item.mcartist.palette": "Палитра",
+
+  "itemGroup.mcartist.mcartist": "MCArtist"
 }

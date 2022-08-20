@@ -1,3 +1,6 @@
 {
-  "item.mcartist.palette": "Palette"
+  "item.mcartist.empty_palette": "Empty Palette",
+  "item.mcartist.palette": "Palette",
+
+  "itemGroup.mcartist.mcartist": "MCArtist"
 }

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mcartist:empty_palette"
+    },
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    }
+  ],
+  "result": {
+    "item": "mcartist:palette"
+  }
+}
